@@ -85,7 +85,7 @@ header {
 .hero {
   height: 120vh;
   position: relative;
-  background: url('/assets/img/bg/photo-1580901369227-308f6f40bdeb.jpg') no-repeat center/cover;
+  background: url('img/bg/photo-1580901369227-308f6f40bdeb.jpg') no-repeat center/cover;
   display: flex;
   text-align: center;
   justify-content: center;
